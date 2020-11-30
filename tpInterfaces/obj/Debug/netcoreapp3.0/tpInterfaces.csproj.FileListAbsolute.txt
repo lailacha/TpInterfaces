@@ -1,0 +1,11 @@
+/Users/lailacharaoui/Projects/tpInterfaces/tpInterfaces/obj/Debug/netcoreapp3.0/tpInterfaces.csprojAssemblyReference.cache
+/Users/lailacharaoui/Projects/tpInterfaces/tpInterfaces/obj/Debug/netcoreapp3.0/tpInterfaces.AssemblyInfoInputs.cache
+/Users/lailacharaoui/Projects/tpInterfaces/tpInterfaces/obj/Debug/netcoreapp3.0/tpInterfaces.AssemblyInfo.cs
+/Users/lailacharaoui/Projects/tpInterfaces/tpInterfaces/bin/Debug/netcoreapp3.0/tpInterfaces
+/Users/lailacharaoui/Projects/tpInterfaces/tpInterfaces/bin/Debug/netcoreapp3.0/tpInterfaces.deps.json
+/Users/lailacharaoui/Projects/tpInterfaces/tpInterfaces/bin/Debug/netcoreapp3.0/tpInterfaces.runtimeconfig.json
+/Users/lailacharaoui/Projects/tpInterfaces/tpInterfaces/bin/Debug/netcoreapp3.0/tpInterfaces.runtimeconfig.dev.json
+/Users/lailacharaoui/Projects/tpInterfaces/tpInterfaces/bin/Debug/netcoreapp3.0/tpInterfaces.dll
+/Users/lailacharaoui/Projects/tpInterfaces/tpInterfaces/bin/Debug/netcoreapp3.0/tpInterfaces.pdb
+/Users/lailacharaoui/Projects/tpInterfaces/tpInterfaces/obj/Debug/netcoreapp3.0/tpInterfaces.dll
+/Users/lailacharaoui/Projects/tpInterfaces/tpInterfaces/obj/Debug/netcoreapp3.0/tpInterfaces.pdb

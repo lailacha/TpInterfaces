@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{052E7F70-7CAB-4A3C-A942-6881B3405BD1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="tpInterfaces/Program.cs">
+    <Files>
+      <File FileName="tpInterfaces/Program.cs" Line="129" Column="46" />
+      <File FileName="tpInterfaces/Eleve.cs" Line="57" Column="34" />
+      <File FileName="tpInterfaces/groupeEleve.cs" Line="49" Column="17" />
+      <File FileName="tpInterfaces/eleveECT.cs" Line="1" Column="1" />
+      <File FileName="tpInterfaces/Eleve1.cs" Line="1" Column="1" />
+      <File FileName="tpInterfaces/EleveMaster.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="tpInterfaces" expanded="True">
+            <Node name="tpInterfaces" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.tpInterfaces PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
